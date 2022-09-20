@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.thrivent.mobileapp.dev",
+    "package_name": "com.alvarosct02.dynamiclink",
     "sha256_cert_fingerprints":
     ["68:1A:47:54:CC:EB:0F:26:D4:BE:09:50:05:27:66:73:A3:BA:69:6D:E0:5C:89:5F:93:93:63:EC:0D:C9:AC:C0"]
   }
